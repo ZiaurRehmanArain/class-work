@@ -1,0 +1,8 @@
+name,fname,age,debit,credit,balance
+,,,,,0
+"ALi	","Raza	",20,1000,,1000
+"ALi	","Raza	",20,,1000,0
+,,,,,0
+
+zia	,Asghar	,20,1000
+zia	,Asghar	,20,,1000

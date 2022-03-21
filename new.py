@@ -1,0 +1,2 @@
+a="zia"
+print(a);
